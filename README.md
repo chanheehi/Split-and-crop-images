@@ -5,7 +5,7 @@
 ### 결과
 #### 1.crop
 
-![My project-1 (1)](https://user-images.githubusercontent.com/101696330/212229395-b7fe4789-0c71-4a9b-985c-40d0b20581a0.png)
+![image](https://user-images.githubusercontent.com/101696330/216230170-ca7409c7-220c-49df-9ef2-6edc385911a3.png)
 
 하나의 이미지에서 YOLO로 탐지된 객체(Bounding Box) 단위로 이미지를 분할해 저장됨.
 
